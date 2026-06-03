@@ -49,14 +49,14 @@
     <strong>🔒 No code or tools used to create this app will be shared. 🔒</strong>
 </p>
  <strong>🌟 Official HDO Box Information 🌟</strong><br>
-    HDO PRO is a reskinned, enhanced version of the <a href="https://hdo.app" target="_blank">official OG HDO Box</a>, optimized with no ads or trackers for a seamless media playback experience.<br>
+    HDO PRO is a reskinned (fork/mod), enhanced version of the <a href="https://hdo.app" target="_blank">official OG HDO Box</a>, optimized with no ads or trackers for a seamless media playback experience.<br>
     ➡️ To learn more about the official OG HDO Box, visit their <a href="https://hdo.app" target="_blank">Offical Website</a> or join their <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord Community</a>.
 </p>
 </div>
 
 ## **❓ What Is HDO PRO?**
 
-HDO PRO is a feature-rich, private media player application tailored for Android devices and Smart TVs, offering access to 🎥 HD movies and TV series. Built for seamless navigation and intuitive design, HDO PRO brings you trending movies and shows across genres like 🎭 Action, 😂 Comedy, and 🚀 Sci-Fi.
+HDO PRO is a private, community-driven fork/mod of HDO Box, optimized for Android devices and Smart TVs to deliver a clean, modern, and privacy-focused entertainment experience. It helps users discover and enjoy 🎥 HD movies and TV series across genres like 🎭 Action, 😂 Comedy, ❤️ Romance, 👻 Horror, and 🚀 Sci-Fi. With an intuitive interface, performance optimizations, Android TV support, and a focus on a smooth, ad-free experience, HDO PRO aims to make finding and watching content simple and enjoyable.
 
 ---
 
