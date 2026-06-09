@@ -157,25 +157,23 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 > * Links may not be up to date for privacy reasons.
 > * Some downloads or content may be unavailable at times.
 
-<div align="center">
+<details>
+<summary><strong>📊 HDO Pro Status</strong></summary>
 
-## 📊 HDO Pro Status
+<div align="center">
 
 🟢 **Website:** Online  
 🟢 **App:** Online  
 
----
-
-🌐 Check live site:  
-<a href="https://hdopro.netlify.app/" target="_blank">HDO Pro Website</a>
-
----
+🌐 <a href="https://hdopro.netlify.app/" target="_blank">Check live site</a>
 
 ⚠️ This status is not real-time and may not always be up to date, as this page is kept more private.
 
 If there are any issues or downtime, updates will be posted in our official **Discord** and **Telegram** servers.
 
 </div>
+
+</details>
 
 ----
 
