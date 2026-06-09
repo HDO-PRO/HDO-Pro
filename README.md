@@ -100,6 +100,14 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
 
 *"Curiosity opened this section."* 😈
 
+---
+
+### 🙏 Thank You
+
+Thanks for using **HDO Pro**. We appreciate every user who checks it out and supports the project.
+
+We’re currently a small community of roughly a few hundred users, growing quietly over time.
+
 </div>
 
 </details>
