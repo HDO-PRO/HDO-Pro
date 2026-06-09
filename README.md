@@ -113,8 +113,10 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
 * 🎭 **Drama Player MOD** - Download from <a href="https://drama-player.en.uptodown.com/android/download" target="_blank">Uptodown</a> or <a href="https://apkpure.com/drama-player/com.drama.simpleplayer/download" target="_blank">APK Pure</a>.
 
 > **⚠️ Notice**
-> HDO PRO may only work with some versions of Android.
-> Links may not be up to date for privacy reasons.
+>
+> * HDO PRO may only work with some versions of Android.
+> * Links may not be up to date for privacy reasons.
+> * Some downloads or content may be unavailable at times.
 
 ----
 
