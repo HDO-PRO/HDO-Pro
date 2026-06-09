@@ -157,6 +157,26 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 > * Links may not be up to date for privacy reasons.
 > * Some downloads or content may be unavailable at times.
 
+<div align="center">
+
+## 📊 HDO Pro Status
+
+🟢 **Service Status:** Check Live Website
+
+---
+
+### 🌐 Website Status
+You can verify the current availability of the service here:  
+:contentReference[oaicite:0]{index=0}
+
+---
+
+Since there are no downloads available on this page, this status section will not be updated here anymore.
+
+For downtime alerts, maintenance updates, or service issues, please check our official **HDO Pro Discord** and **Telegram**.
+
+</div>
+
 ----
 
 ## **📜 DMCA Disclaimer**
