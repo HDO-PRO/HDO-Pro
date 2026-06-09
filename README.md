@@ -90,15 +90,22 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
     <img width="220" alt="Screenshot 2026-05-28 162242" src="https://github.com/user-attachments/assets/a779768f-1cd9-4b80-8f7e-e8f371f4ac2c" />
     <img width="320" alt="Screenshot 2026-05-28 162408" src="https://github.com/user-attachments/assets/fa04c43e-5617-4624-b941-fc07b4e653db" />
 </div>
+
 ---
 
-## **💬 User Reviews**
+<details>
+<summary><strong>💬 User Reviews</strong></summary>
 
-**What users love about HDO PRO:**  
-- "My favorite thing about this app is that it's ad-free, has every movie and series, and the UI is perfect. It truly makes it the best app!"  
-- "All the amazing content!"  
-- "I like how it's easy to find movies and series."  
-- "P1r4ting." (Y'all can probably figure this one out.)
+<br>
+
+**What users love about HDO PRO:**
+
+* "My favorite thing about this app is that it's ad-free, has every movie and series, and the UI is perfect. It truly makes it the best app!"
+* "All the amazing content!"
+* "I like how it's easy to find movies and series."
+* "P1r4ting." (Y'all can probably figure this one out.)
+
+</details>
 
 ----
 
