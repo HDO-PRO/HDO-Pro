@@ -118,6 +118,17 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
 * "I like how it's easy to find movies and series."
 * "P1r4ting." (Y'all can probably figure this one out.)
 
+<br>
+
+---
+
+<p align="center">
+<strong>🙏 Thank you to all our users!</strong><br>
+We appreciate the support from everyone using our platform.
+<br><br>
+We currently have around <strong>200–300 users</strong> active on our servers.
+</p>
+
 </details>
 
 ----
