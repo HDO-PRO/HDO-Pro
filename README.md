@@ -162,47 +162,16 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 
 <div align="center">
 
-🟢 Website: <span id="site-status">Checking...</span><br>
-🟢 App: Online
+🟢 **Website:** Online  
+🟢 **App:** Online  
 
-🌐 <a href="https://hdopro.netlify.app/" target="_blank">Check live site</a><br><br>
+🌐 <a href="https://hdopro.netlify.app/" target="_blank">Check live site</a>
 
-⚠️ This status is not real-time and may not always be fully accurate, as this page is kept more private.
+⚠️ This status is not real-time and may not always be up to date, as this page is kept more private.
 
-Updates about downtime or issues will be posted in our official Discord and Telegram servers.
+If there are any issues or downtime, updates will be posted in our official **Discord** and **Telegram** servers.
 
 </div>
-
-<script>
-async function checkSiteStatus() {
-  const el = document.getElementById("site-status");
-
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 5000);
-
-  try {
-    // Try to fetch headers (most reliable browser-based check available)
-    const res = await fetch("https://hdopro.netlify.app/", {
-      method: "HEAD",
-      mode: "no-cors",
-      signal: controller.signal
-    });
-
-    clearTimeout(timeout);
-
-    // Browser limitation: we can't read status, so assume reachable = online
-    el.textContent = "Online 🟢";
-    el.style.color = "green";
-
-  } catch (err) {
-    clearTimeout(timeout);
-    el.textContent = "Offline 🔴";
-    el.style.color = "red";
-  }
-}
-
-checkSiteStatus();
-</script>
 
 </details>
 
