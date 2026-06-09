@@ -1,13 +1,13 @@
 <h1 align="center">🎬✨ HDO PRO: Media Player for Movies and TV Series on Android and TV (Private) 🍿📺🍥</h1>
 
 <div align="center">
-    <strong>⚠️ Notice: HDO PRO may only work with some version of android. ⚠️</strong>
-</div>
-
-<div align="center">
     <img src="https://github.com/user-attachments/assets/f23fcaf8-3da2-4546-9029-ebf0eeee2268" alt="GitHub Image" width="500">
     <br><br>
 <p>
+
+<div align="center">
+    <strong>⚠️ Notice: HDO PRO may only work with some version of android. ⚠️</strong>
+</div>
 
 <h2 align="center">📩 Our Socials! (Join To Get Access) 🌐🍥</h2>
 
