@@ -166,7 +166,8 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 
 ---
 
-:contentReference[oaicite:0]{index=0}
+🌐 Check live site:  
+<a href="https://hdopro.netlify.app/" target="_blank">HDO Pro Website</a>
 
 ---
 
