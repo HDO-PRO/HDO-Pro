@@ -77,19 +77,32 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
 
 ---
 
-<h2 align="center">👀 Final Note...</h2>
-
-<div align="center">
-    <strong>😏 Looks like they’re finding out… wahahaha.</strong><br>
-    <em>Too late to turn back now.</em>
-</div>
+<details>
+<summary><strong>👀 Final Note... A Hidden Message Awaits</strong></summary>
 
 <br>
 
 <div align="center">
-    <img width="220" alt="Screenshot 2026-05-28 162242" src="https://github.com/user-attachments/assets/a779768f-1cd9-4b80-8f7e-e8f371f4ac2c" />
-    <img width="320" alt="Screenshot 2026-05-28 162408" src="https://github.com/user-attachments/assets/fa04c43e-5617-4624-b941-fc07b4e653db" />
+
+# 😏 Looks Like They're Finding Out...
+
+### *Wahahaha.*
+
+**Too late to turn back now.**
+
+━━━━━━━━━━━━━━━━━━━━
+
+<img width="220" alt="Screenshot 2026-05-28 162242" src="https://github.com/user-attachments/assets/a779768f-1cd9-4b80-8f7e-e8f371f4ac2c" />
+
+<img width="320" alt="Screenshot 2026-05-28 162408" src="https://github.com/user-attachments/assets/fa04c43e-5617-4624-b941-fc07b4e653db" />
+
+━━━━━━━━━━━━━━━━━━━━
+
+*"Curiosity opened this section."* 😈
+
 </div>
+
+</details>
 
 ---
 
