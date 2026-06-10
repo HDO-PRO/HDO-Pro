@@ -154,12 +154,25 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 * 🚧 **Beta Version** - Available on the <a href="https://hdo.app" target="_blank">official site</a>.
 * 📺 **On Player MOD** - Find it on <a href="https://play.google.com/store/apps/details?id=com.mediaon.apt" target="_blank">Google Play</a>.
 * 🎭 **Drama Player MOD** - Download from <a href="https://drama-player.en.uptodown.com/android/download" target="_blank">Uptodown</a> or <a href="https://apkpure.com/drama-player/com.drama.simpleplayer/download" target="_blank">APK Pure</a>.
+* Or If you want to check out archives for the offical app you can, 
 
 > **⚠️ Notice**
 >
 > * HDO PRO may only work with some versions of Android.
 > * Links may not be up to date for privacy reasons.
 > * Some downloads or content may be unavailable at times.
+
+## HDO Box (Not Us) Archive (to find their downloads):
+
+- APKMirror: https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=HDO+Box
+- APKPure: https://apkpure.com/search?q=HDO+Box
+- Uptodown: https://en.uptodown.com/android/search/hdo%20box
+- Aptoide: https://en.aptoide.com/search?query=hdo+box
+- F-Droid: https://search.f-droid.org/?q=hdo+box
+
+- Note: Always scan APKs from third-party sources before installing. (VirusTotal, Hybrid Analysis, and URL Void).
+
+- Note that this is for the Offical OG app.
 
 <details>
 <summary><strong>📊 HDO Pro Status</strong></summary>
