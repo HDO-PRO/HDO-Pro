@@ -162,17 +162,40 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 > * Links may not be up to date for privacy reasons.
 > * Some downloads or content may be unavailable at times.
 
-## HDO Box (Not Us) Archive (to find their downloads):
+## HDO Box APK Archive
 
-- APKMirror: https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=HDO+Box
-- APKPure: https://apkpure.com/search?q=HDO+Box
-- Uptodown: https://en.uptodown.com/android/search/hdo%20box
-- Aptoide: https://en.aptoide.com/search?query=hdo+box
-- F-Droid: https://search.f-droid.org/?q=hdo+box
+Archive links for locating historical and archived downloads of the official HDO Box app. These links are intended to help find older HDO Box APK versions and are not specifically for HDO Pro.
 
-- Note: Always scan APKs from third-party sources before installing. (VirusTotal, Hybrid Analysis, and URL Void).
+<details>
+<summary>HDO Box APK Sources & Archives</summary>
 
-- Note that this is for the Offical OG app.
+* APKMirror Search: https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=HDO+Box
+* APKPure Search: https://apkpure.com/search?q=HDO+Box
+* Uptodown Search: https://en.uptodown.com/android/search/hdo%20box
+* Aptoide Search: https://en.aptoide.com/search?query=hdo+box
+* F-Droid Search: https://search.f-droid.org/?q=hdo+box
+
+</details>
+
+<details>
+<summary>Other HDO Box Sources</summary>
+
+* HDO Box: https://h-do.com
+* HDO App: https://hdoapp.com/hdo-box-3
+
+</details>
+
+<details>
+<summary>APK Safety Tools</summary>
+
+* VirusTotal: https://www.virustotal.com
+* Hybrid Analysis: https://www.hybrid-analysis.com
+* URLVoid: https://www.urlvoid.com
+
+> Note: Always scan APKs from third-party sources before installing.
+
+</details>
+
 
 <details>
 <summary><strong>📊 HDO Pro Status</strong></summary>
