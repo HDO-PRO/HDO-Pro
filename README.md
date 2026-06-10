@@ -43,11 +43,12 @@
         <img src="https://img.shields.io/badge/⚖️ DMCA-View-yellow" alt="DMCA">
     </a>
 
-</p>
-    <strong>❗️ Note: Downloads are currently unavailable. Join to get Access. ❗️</strong>  
-    <strong>🚫 Do not talk about us. We do not exist. 🚫</strong>  
-    <strong>🔒 No code or tools used to create this app will be shared. 🔒</strong>
-</p>
+> 🔴 **IMPORTANT NOTICE**
+>
+> ❗ Downloads are currently unavailable. Join to get access.  
+> 🚫 Do not discuss or reference us publicly — we do not exist.  
+> 🔒 No code or tools used to build this app will be shared.  
+> 📊 You can check the app/web status at the bottom of this page.
 
 ----
  <strong>🌟 Official HDO Box Information 🌟 (Not About Us)</strong><br>
@@ -196,6 +197,14 @@ Archive links for locating historical and archived downloads of the official HDO
 
 </details>
 
+----
+
+## **📜 DMCA Disclaimer**
+
+HDO PRO does not host or provide media files. Content accessible through the app is sourced from third-party providers, and the app is intended for personal, non-commercial use only.  
+We do not endorse or promote illegal activity. Users are responsible for complying with all applicable laws and regulations in their jurisdiction.  
+
+**Note:** While the official HDO Box does not support or condone what we do, it’s worth mentioning that HDO Box itself operates as a piracy app, thus already breaking some rules. Additionally, **HDO PRO** is a distinct project that prioritizes privacy and enhanced usability.
 
 <details>
 <summary><strong>📊 HDO Pro Status</strong></summary>
@@ -214,12 +223,3 @@ If there are any issues or downtime, updates will be posted in our official **Di
 </div>
 
 </details>
-
-----
-
-## **📜 DMCA Disclaimer**
-
-HDO PRO does not host or provide media files. Content accessible through the app is sourced from third-party providers, and the app is intended for personal, non-commercial use only.  
-We do not endorse or promote illegal activity. Users are responsible for complying with all applicable laws and regulations in their jurisdiction.  
-
-**Note:** While the official HDO Box does not support or condone what we do, it’s worth mentioning that HDO Box itself operates as a piracy app, thus already breaking some rules. Additionally, **HDO PRO** is a distinct project that prioritizes privacy and enhanced usability.
