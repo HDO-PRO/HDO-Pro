@@ -54,8 +54,9 @@
     HDO PRO is a reskinned (Fork/Mod), enhanced version of the <a href="hdo.app" target="_blank">Official OG HDO Box</a>, optimized with no ads/trackers for a seamless media playback experience.<br>
     ➡️ To learn more about the Official OG HDO Box, visit their <a href="https://hdo.app" target="_blank">Offical Website</a> or join their <a href="https://t.me/+tgrFoCm170s2NmQ9" target="_blank">Telegram</a> or <a href="discord.com/invite/VPRJVExUVD" target="_blank">Discord Community</a>.
 </p>
-</div>
 ----
+</div>
+
 
 ## **❓ What Is HDO PRO?**
 
