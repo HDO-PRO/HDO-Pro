@@ -165,7 +165,7 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 
 ## HDO Box APK Archive
 
-Archive links for locating historical and archived downloads of the official HDO Box app. These links are intended to help find older HDO Box APK versions and are not specifically for HDO Pro.
+Archive links for locating historical and archived downloads of the official HDO Box app. These links are intended to help find older HDO Box APK versions and are not specifically for HDO Pro. Click on the word “here” for more info: :contentReference[oaicite:0]{index=0}
 
 <details>
 <summary>HDO Box APK Sources & Archives</summary>
