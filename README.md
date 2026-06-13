@@ -51,10 +51,11 @@
 > 📊 You can check the app/web status at the bottom of this page.
 
 ----
-<strong>🌟 Official HDO Box Information 🌟 (Not About Us)</strong><br>
-HDO PRO is a community-maintained reskin/modification (fork) inspired by the original <a href="https://hdo.app" target="_blank">HDO Box</a>. While HDO PRO may provide a different user experience, it is an independent project and is <strong>not affiliated with, endorsed by, sponsored by, or officially connected to HDO Box or its developers</strong>.<br><br>
 
-➡️ To learn more about the original HDO Box project, visit the <a href="https://hdo.app" target="_blank">Official Website</a> or join their <a href="https://t.me/+tgrFoCm170s2NmQ9" target="_blank">Telegram</a> or <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord Community</a>.
+<strong>🌟 Official HDO Box Information 🌟 (Not About Us)</strong><br>
+HDO PRO is a community-maintained reskin/modification (fork) inspired by the original <a href="https://hdo.app" target="_blank">HDO Box</a>. While HDO PRO may provide a different user experience, it is an independent project and is <strong>not affiliated with, endorsed by, sponsored by, or officially connected to HDO Box or its developers</strong>.<br>
+➡️ Learn more about the original project via the <a href="https://hdo.app" target="_blank">Official Website</a>, <a href="https://t.me/+tgrFoCm170s2NmQ9" target="_blank">Telegram</a>, or <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord</a>.
+
 ----
 </div>
 
