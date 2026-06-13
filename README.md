@@ -65,20 +65,36 @@ HDO PRO is a private, community-driven fork/mod of HDO Box, optimized for Androi
 
 ---
 
-## **🌟 HDO Box vs. HDO PRO**
+## 🌟 HDO Box vs. HDO PRO
 
-While both apps offer media playback features, **HDO Box** and **HDO PRO** differ in significant ways. Here's a quick comparison:
+While both apps offer media playback features, **HDO Box** and **HDO PRO** differ in several ways:
 
-| Feature                | **HDO Box**                      | **HDO PRO**                       |
-|------------------------|-----------------------------------|------------------------------------|
-| **Ads and Trackers**   | Contains ads and trackers         | Completely ad-free and tracker-free |
-| **Privacy**            | No privacy-focused enhancements  | Built for privacy; no data collection |
-| **Updates**            | Infrequent updates               | Regular updates for bug fixes and features |
-| **User Interface**     | Basic and functional             | Sleek, optimized, and intuitive   |
-| **Availability**       | Publicly available on the website| Private access only               |
-| **Source Code**        | Proprietary                      | Not shared or available           |
+| Feature            | HDO Box                       | HDO PRO                                        |
+| ------------------ | ----------------------------- | ---------------------------------------------- |
+| **Ads**            | May include advertisements    | Designed to provide an ad-free experience      |
+| **Privacy**        | Standard application behavior | Privacy-focused with minimal data handling     |
+| **Updates**        | Update schedule varies        | Community-maintained updates when available    |
+| **User Interface** | Basic and functional          | Enhanced interface with usability improvements |
+| **Availability**   | Publicly available            | Distributed through private community channels |
+| **Source Code**    | Proprietary                   | Source code is not publicly available          |
 
-HDO PRO is a fully enhanced and private experience for users who value seamless playback, improved navigation, and privacy.  
+HDO PRO is a community-maintained enhancement project that focuses on usability improvements, streamlined navigation, and a more refined user experience while remaining separate from the original HDO Box project.
+
+<details>
+<summary><strong>ℹ️ Service Status & Updates</strong></summary>
+
+<br>
+
+Real-time information regarding server availability, maintenance, outages, feature updates, and announcements may not always be reflected on this page.
+
+For the latest status updates, users should follow the official community channels and social platforms associated with their respective app. Community channels are typically the fastest source for current service information, outage reports, maintenance notices, and project announcements.
+
+</details>
+
+> ⚠️ **Disclaimer**
+>
+> HDO PRO is an independent community project and is not affiliated with, endorsed by, or operated by the original HDO Box developers. Features, availability, and update schedules may vary over time.
+
 
 ---
 
