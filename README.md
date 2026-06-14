@@ -218,10 +218,12 @@ Archive links for locating historical and archived downloads of the official HDO
 
 ## **📜 DMCA Disclaimer**
 
-HDO PRO does not host or provide media files. Content accessible through the app is sourced from third-party providers, and the app is intended for personal, non-commercial use only.  
-We do not endorse or promote illegal activity. Users are responsible for complying with all applicable laws and regulations in their jurisdiction.  
+HDO PRO does not host or provide media files. Content accessible through the app is sourced from third-party providers, and the app is intended for personal, non-commercial use only.
+We do not endorse or promote illegal activity. Users are responsible for complying with all applicable laws and regulations in their jurisdiction.
 
-**Note:** While the official HDO Box does not support or condone what we do, it’s worth mentioning that HDO Box itself operates as a piracy app, thus already breaking some rules. Additionally, **HDO PRO** is a distinct project that prioritizes privacy and enhanced usability.
+**HDO PRO is an independent community project and is not affiliated with, associated with, endorsed by, sponsored by, or connected to the original or official HDO Box application, its developers, or its owners.** HDO PRO operates as a separate project with its own goals, development, and community.
+
+**Note:** While the official HDO Box does not support or condone what we do, it is worth noting that HDO Box itself functions as a third-party streaming application. Additionally, **HDO PRO** is a distinct project that prioritizes privacy, enhanced usability, and a community-driven experience.
 
 <details>
 <summary><strong>📊 HDO Pro Status</strong></summary>
