@@ -52,17 +52,18 @@
 
 ----
 
-<strong>🌟 Official HDO Box Information 🌟 (Not About Us)</strong><br>
-HDO PRO is a community-maintained reskin/modification (fork) inspired by the original <a href="https://hdo.app" target="_blank">HDO Box</a>. While HDO PRO may provide a different user experience, it is an independent project and is <strong>not affiliated with, endorsed by, sponsored by, or officially connected to HDO Box or its developers</strong>.<br>
-➡️ Learn more about the original project via the <a href="https://hdo.app" target="_blank">Official Website</a>, <a href="https://t.me/+tgrFoCm170s2NmQ9" target="_blank">Telegram</a>, or <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord</a>.
-
-----
-</div>
-
-
 ## **❓ What Is HDO PRO?**
 
-HDO PRO is a private, community-driven fork/mod of HDO Box, optimized for Android devices and Smart TVs to deliver a clean, modern, and privacy-focused entertainment experience. It helps users discover and enjoy 🎥 HD movies and TV series across genres like 🎭 Action, 😂 Comedy, ❤️ Romance, 👻 Horror, and 🚀 Sci-Fi. With an intuitive interface, performance optimizations, Android TV support, and a focus on a smooth, ad-free experience, HDO PRO aims to make finding and watching content simple and enjoyable.
+<strong>🌟 About HDO PRO & The Original HDO Box 🌟</strong><br>
+
+HDO PRO is a private, community-driven fork/mod (reskin) inspired by the original <a href="https://hdo.app" target="_blank">HDO Box</a>. It is designed for Android devices and Smart TVs, providing a clean, modern, privacy-focused, and ad-free entertainment experience with performance optimizations and Android TV support.
+
+Users can discover and enjoy 🎥 HD movies and TV series across a wide variety of genres, including 🎭 Action, 😂 Comedy, ❤️ Romance, 👻 Horror, and 🚀 Sci-Fi, through an intuitive and streamlined interface designed to make finding and watching content simple and enjoyable.
+
+> **Important:** HDO PRO is an independent community project and is **not affiliated with, endorsed by, sponsored by, or officially connected to HDO Box or its developers.** References to HDO Box are provided for informational purposes only.
+
+➡️ Learn more about the original HDO Box project through the <a href="https://hdo.app" target="_blank">Official Website</a>, <a href="https://t.me/+tgrFoCm170s2NmQ9" target="_blank">Telegram</a>, or <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord</a>.
+
 
 ---
 
