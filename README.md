@@ -170,8 +170,8 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 >
 > ❌ Access to community content, downloads, archives, and additional features may require joining the community or submitting a request for access. Pro access may be required for select content.
 
-* 📥 **Stable Version** - Visit the <a href="https://hdo.app" target="_blank">official site</a>.
-* 🚧 **Beta Version** - Available on the <a href="https://hdo.app" target="_blank">official site</a>.
+* 📥 **Stable Version (Original HDO Box Project)** - Visit the <a href="https://hdo.app" target="_blank">official HDO Box site</a>.
+* 🚧 **Beta Version (Original HDO Box Project)** - Available on the <a href="https://hdo.app" target="_blank">official HDO Box site</a>.
 * 📺 **On Player MOD** - Find it on <a href="https://play.google.com/store/apps/details?id=com.mediaon.apt" target="_blank">Google Play</a>.
 * 🎭 **Drama Player MOD** - Download from <a href="https://drama-player.en.uptodown.com/android/download" target="_blank">Uptodown</a> or <a href="https://apkpure.com/drama-player/com.drama.simpleplayer/download" target="_blank">APKPure</a>.
 * 📦 Official app archives and historical releases may be available through community resources when accessible.
@@ -181,9 +181,9 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 
 <br>
 
-* The links above are for the original **HDO Box** project and related apps, **not HDO PRO**.
-* Some downloads, archives, and community features may require joining the community or receiving access.
-* Availability, links, and Android compatibility may change over time.
+* The links above are for the **original HDO Box project and related applications**, not HDO PRO.
+* Access to some HDO PRO content, downloads, archives, or features may require joining the community or receiving access.
+* HDO PRO resources and links may not always be available. If you're interested in the original project, the official HDO Box links above may still be available.
 
 </details>
 
