@@ -168,12 +168,14 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 
 > **⚠️ ALERT: PLEASE READ ⚠️**
 >
-> ❌ Access to community content, downloads, archives, and additional features may require joining the community or submitting a request for access. Pro access may be required for select content.
+> ❌ Access to community content, downloads, archives, and additional features may require joining the community or submitting a request for access.
+>
+> ⚠️ Official HDO PRO download links, archives, and resources may not always be available at this time.
 >
 > 👇 **Please open the Important Notice below before downloading.**
 
-* 📥 **Stable Version (HDO PRO)** - Available through community access **OR** visit the <a href="https://hdo.app" target="_blank">official HDO Box site</a>.
-* 🚧 **Beta Version (HDO PRO)** - Available through community access **OR** visit the <a href="https://hdo.app" target="_blank">official HDO Box site</a>.
+* 📥 **Stable Version (HDO PRO)** - Available through community access **OR** visit the <a href="https://hdo.app" target="_blank">official OG HDO Box Project website</a>.
+* 🚧 **Beta Version (HDO PRO)** - Available through community access **OR** visit the <a href="https://hdo.app" target="_blank">official OG HDO Box Project website</a>.
 * 📺 **On Player MOD** - Find it on <a href="https://play.google.com/store/apps/details?id=com.mediaon.apt" target="_blank">Google Play</a>.
 * 🎭 **Drama Player MOD** - Download from <a href="https://drama-player.en.uptodown.com/android/download" target="_blank">Uptodown</a> or <a href="https://apkpure.com/drama-player/com.drama.simpleplayer/download" target="_blank">APKPure</a>.
 * 📦 Official app archives and historical releases may be available through community resources when accessible.
@@ -183,9 +185,9 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 
 <br>
 
-* HDO PRO is an independent community project and is **not affiliated with the original HDO Box project**.
-* Access to HDO PRO downloads, archives, and community features may require joining the community or receiving access.
-* If HDO PRO resources are unavailable, the official HDO Box links above may still be available for users interested in the original project.
+* HDO PRO is an independent community project and is **not affiliated with, endorsed by, sponsored by, or connected to the original HDO Box project**.
+* Access to HDO PRO downloads, archives, community content, and special features may require joining the community or receiving access.
+* If HDO PRO downloads or resources are unavailable, the official HDO Box links above may still be available for users interested in the original project.
 
 </details>
 
