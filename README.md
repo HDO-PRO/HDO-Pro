@@ -176,14 +176,16 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 * 🎭 **Drama Player MOD** - Download from <a href="https://drama-player.en.uptodown.com/android/download" target="_blank">Uptodown</a> or <a href="https://apkpure.com/drama-player/com.drama.simpleplayer/download" target="_blank">APKPure</a>.
 * 📦 Official app archives and historical releases may be available through community resources when accessible.
 
-> **⚠️ Notice**
->
-> * The official links listed above are for the original HDO Box project and related applications. They are **not affiliated with, endorsed by, sponsored by, or connected to HDO PRO**.
-> * Access to community content, downloads, archives, and additional features may require joining the community or submitting a request for access.
-> * Some content, downloads, beta releases, archives, or special features may only be available to approved members or users with the appropriate access permissions.
-> * HDO PRO may only work with certain versions of Android.
-> * Links may not always be up to date due to privacy, maintenance, or availability reasons.
-> * Some downloads, archives, or community content may be unavailable at times.
+<details>
+<summary><strong>⚠️ Important Notice</strong></summary>
+
+<br>
+
+* The links above are for the original **HDO Box** project and related apps, **not HDO PRO**.
+* Some downloads, archives, and community features may require joining the community or receiving access.
+* Availability, links, and Android compatibility may change over time.
+
+</details>
 
 ## HDO Box APK Archive
 
