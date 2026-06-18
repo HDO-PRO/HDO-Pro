@@ -167,19 +167,23 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 ## 📂 Downloads
 
 > **⚠️ ALERT: PLEASE READ ⚠️**
-> ❌ Access to community content, downloads, and additional features requires joining or submitting a request for access. Pro access may be required for select content.
+>
+> ❌ Access to community content, downloads, archives, and additional features may require joining the community or submitting a request for access. Pro access may be required for select content.
 
 * 📥 **Stable Version** - Visit the <a href="https://hdo.app" target="_blank">official site</a>.
 * 🚧 **Beta Version** - Available on the <a href="https://hdo.app" target="_blank">official site</a>.
 * 📺 **On Player MOD** - Find it on <a href="https://play.google.com/store/apps/details?id=com.mediaon.apt" target="_blank">Google Play</a>.
-* 🎭 **Drama Player MOD** - Download from <a href="https://drama-player.en.uptodown.com/android/download" target="_blank">Uptodown</a> or <a href="https://apkpure.com/drama-player/com.drama.simpleplayer/download" target="_blank">APK Pure</a>.
-* Or If you want to check out archives for the offical app you can, 
+* 🎭 **Drama Player MOD** - Download from <a href="https://drama-player.en.uptodown.com/android/download" target="_blank">Uptodown</a> or <a href="https://apkpure.com/drama-player/com.drama.simpleplayer/download" target="_blank">APKPure</a>.
+* 📦 Official app archives and historical releases may be available through community resources when accessible.
 
 > **⚠️ Notice**
 >
-> * HDO PRO may only work with some versions of Android.
-> * Links may not be up to date for privacy reasons.
-> * Some downloads or content may be unavailable at times.
+> * The official links listed above are for the original HDO Box project and related applications. They are **not affiliated with, endorsed by, sponsored by, or connected to HDO PRO**.
+> * Access to community content, downloads, archives, and additional features may require joining the community or submitting a request for access.
+> * Some content, downloads, beta releases, archives, or special features may only be available to approved members or users with the appropriate access permissions.
+> * HDO PRO may only work with certain versions of Android.
+> * Links may not always be up to date due to privacy, maintenance, or availability reasons.
+> * Some downloads, archives, or community content may be unavailable at times.
 
 ## HDO Box APK Archive
 
