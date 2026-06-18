@@ -6,7 +6,7 @@
 <p>
 
 <div align="center">
-    <strong>⚠️ Notice: HDO PRO may only work with some version of android. ⚠️</strong>
+    <strong>⚠️ Notice: HDO PRO may only work with some versions of android. ⚠️</strong>
 </div>
 
 <h2 align="center">📩 Our Socials! (Join To Get Access) 🌐🍥</h2>
@@ -197,7 +197,7 @@ Archive links for locating historical and archived downloads of the **official H
 
 > **Important:** These archives are **NOT for HDO PRO**. HDO PRO is an independent community project and is **not affiliated with, associated with, endorsed by, or connected to the original HDO Box application or its developers.** The links below reference the original/official HDO Box app and historical versions only.
 
-More info <a href="https://github.com/HDO-PRO/Resources-Alternatives" target="_blank">HERE</a> (Official Info/Links at top of page).
+More Resources & Info <a href="https://github.com/HDO-PRO/Resources-Alternatives" target="_blank">HERE</a> (Official Info/Links at top of page).
 
 <details>
 <summary>HDO Box APK Sources & Archives</summary>
