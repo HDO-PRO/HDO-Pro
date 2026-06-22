@@ -1,7 +1,12 @@
 <h1 align="center">🎬✨ HDO PRO: Media Player for Movies and TV Series on Android and TV (Private) 🍿📺🍥</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a46840e4-72a0-4133-b462-b0a7da5b91bb" alt="Banner" width="600">
+  <img
+    src="https://github.com/user-attachments/assets/a46840e4-72a0-4133-b462-b0a7da5b91bb"
+    alt="Banner"
+    width="700"
+    style="border-radius: 12px;"
+  />
 </p>
 
 <div align="center">
