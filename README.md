@@ -235,6 +235,15 @@ More Resources & Info <a href="https://github.com/HDO-PRO/Resources-Alternatives
 
 ----
 
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/a9ae5ca1-1b38-4ec3-9461-a3bb18be6fa7"
+    alt="Banner"
+    width="400"
+    style="border-radius: 45px;"
+  />
+</p>
+
 ## **📜 DMCA Disclaimer**
 
 HDO PRO does not host or provide media files. Content accessible through the app is sourced from third-party providers, and the app is intended for personal, non-commercial use only.
@@ -259,14 +268,3 @@ We do not endorse or promote illegal activity. Users are responsible for complyi
 If there are any issues or downtime, updates will be posted in our official **Discord** and **Telegram** servers.
 
 </div>
-
-</details>
-
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/a9ae5ca1-1b38-4ec3-9461-a3bb18be6fa7"
-    alt="Banner"
-    width="400"
-    style="border-radius: 45px;"
-  />
-</p>
