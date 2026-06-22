@@ -262,4 +262,11 @@ If there are any issues or downtime, updates will be posted in our official **Di
 
 </details>
 
-<img width="1983" height="793" alt="ChatGPT Image Jun 22, 2026, 03_40_33 PM" src="https://github.com/user-attachments/assets/a9ae5ca1-1b38-4ec3-9461-a3bb18be6fa7" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/a9ae5ca1-1b38-4ec3-9461-a3bb18be6fa7"
+    alt="Banner"
+    width="400"
+    style="border-radius: 45px;"
+  />
+</p>
