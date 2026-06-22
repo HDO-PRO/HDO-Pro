@@ -1,7 +1,8 @@
 <h1 align="center">🎬✨ HDO PRO: Media Player for Movies and TV Series on Android and TV (Private) 🍿📺🍥</h1>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/f23fcaf8-3da2-4546-9029-ebf0eeee2268" alt="GitHub Image" width="500">
+    <img src="<img width="1983" height="793" alt="ChatGPT Image Jun 22, 2026, 03_38_59 PM" src="https://github.com/user-attachments/assets/898b84ba-160b-48f0-9200-8adf68f13908" />
+" alt="GitHub Image" width="500">
     <br><br>
 <p>
 
