@@ -2,7 +2,12 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/898b84ba-160b-48f0-9200-8adf68f13908" alt="HDO PRO Banner" width="100%">
+<img
+    src="https://github.com/user-attachments/assets/898b84ba-160b-48f0-9200-8adf68f13908"
+    alt="HDO PRO Banner"
+    width="600"
+    style="border-radius: 15px;"
+>
 
 </div>
 
