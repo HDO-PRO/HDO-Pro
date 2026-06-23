@@ -1,13 +1,6 @@
 <h1 align="center">🎬✨ HDO PRO: Media Player for Movies and TV Series on Android and TV (Private) 🍿📺🍥</h1>
 
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/a46840e4-72a0-4133-b462-b0a7da5b91bb"
-    alt="Banner"
-    width="600"
-    style="border-radius: 40px;"
-  />
-</p>
+<img width="3966" height="1586" alt="ChatGPT Image Jun 22, 2026, 03_38_59 PM_waifu2x_art_scan_noise3_scale" src="https://github.com/user-attachments/assets/3e705200-3b74-4db4-a7b5-3c17a4c14f8a" />
 
 <div align="center">
     <strong>⚠️ Notice: HDO PRO may only work with some versions of android. ⚠️</strong>
