@@ -235,14 +235,8 @@ More Resources & Info <a href="https://github.com/HDO-PRO/Resources-Alternatives
 
 ----
 
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/a9ae5ca1-1b38-4ec3-9461-a3bb18be6fa7"
-    alt="Banner"
-    width="400"
-    style="border-radius: 45px;"
-  />
-</p>
+<img width="1600" height="640" alt="ChatGPT Image Jun 22, 2026, 03_40_33 PM_waifu2x_art_scan_noise3_scale" src="https://github.com/user-attachments/assets/379ddad4-c686-46c9-b2e3-80b0cf864251" />
+
 
 ## **📜 DMCA Disclaimer**
 
