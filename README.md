@@ -170,6 +170,15 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 
 ## 📂 Downloads
 
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/379ddad4-c686-46c9-b2e3-80b0cf864251"
+    alt="ChatGPT Image Jun 22, 2026, 03_40_33 PM_waifu2x_art_scan_noise3_scale"
+    width="250"
+    style="border-radius: 45px;"
+  />
+</p>
+
 > **⚠️ ALERT: PLEASE READ ⚠️**
 >
 > ❌ Access to community content, downloads, archives, and additional features may require joining the community or submitting a request for access.
@@ -235,8 +244,14 @@ More Resources & Info <a href="https://github.com/HDO-PRO/Resources-Alternatives
 
 ----
 
-<img width="1600" height="640" alt="ChatGPT Image Jun 22, 2026, 03_40_33 PM_waifu2x_art_scan_noise3_scale" src="https://github.com/user-attachments/assets/379ddad4-c686-46c9-b2e3-80b0cf864251" />
-
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/379ddad4-c686-46c9-b2e3-80b0cf864251"
+    alt="ChatGPT Image Jun 22, 2026, 03_40_33 PM_waifu2x_art_scan_noise3_scale"
+    width="250"
+    style="border-radius: 45px;"
+  />
+</p>
 
 ## **📜 DMCA Disclaimer**
 
