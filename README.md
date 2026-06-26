@@ -38,7 +38,7 @@ Welcome to the official HDO PRO App Page.
 </a>
 
 <a href="mailto:hdopro@protonmail.com">
-<img src="https://img.shields.io/badge/📧 Contact_Email-red?style=for-the-badge" alt="Email">
+<img src="https://img.shields.io/badge/📧 Contact_Email-red?style=for-the-badge" alt="Email (OFFLINE)">
 </a>
 
 </div>
