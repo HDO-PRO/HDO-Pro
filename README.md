@@ -13,39 +13,130 @@
     <strong>⚠️ Notice: HDO PRO may only work with some versions of android. ⚠️</strong>
 </div>
 
-<h2 align="center">📩 Our Socials! (Join To Get Access) 🌐🍥</h2>
+<h2 align="center">:envelope_with_arrow: Our Socials! (Join To Get Access) :globe_with_meridians::fish_cake:</h2>
+
+<p align="center">
+Welcome to the official HDO PRO social hub. Connect, explore, and follow updates across our ecosystem.
+</p>
+
+<!-- ========================= -->
+<!-- MAIN SOCIAL LINKS -->
+<!-- ========================= -->
 
 <div align="center">
-    <a href="https://hdopro.netlify.app/">
-        <img src="https://img.shields.io/badge/🌟 Website-Visit-brightgreen" alt="Website">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/🌀 Discord-Temporarily_Unavailable-lightgrey" alt="Discord">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/💬 Telegram-Temporarily_Unavailable-lightgrey" alt="Telegram">
-    </a>
-    <a href="mailto:hdopro@protonmail.com">
-        <img src="https://img.shields.io/badge/📧 Email%20(OFFLINE)-Contact-red" alt="Email">
-    </a>
-    <a href="https://github.com/HDO-PRO/Resources-Alternatives">
-        <img src="https://img.shields.io/badge/📚 Resources%20%26%20Alternatives-View-blue" alt="Resources & Alternatives">
-    </a>
-    <a href="https://hdopro.netlify.app/privacy.html">
-        <img src="https://img.shields.io/badge/🔒 Privacy-View-lightblue" alt="Privacy">
-    </a>
-    <a href="https://hdopro.netlify.app/rules.html">
-        <img src="https://img.shields.io/badge/📜 Rules-View-orange" alt="Rules">
-    </a>
-    <a href="https://github.com/MarshMeadow/hdo-box.app-ad-free">
-        <img src="https://img.shields.io/badge/🗄️ Legacy%20Repository-Visit-lightgrey" alt="Legacy Repository">
-    </a>
-    <a href="https://github.com/HDO-PRO/HDO-Pro-Web-Index">
-        <img src="https://img.shields.io/badge/🧭 Web%20Index-Visit-blueviolet" alt="Web Index">
-    </a>
-    <a href="https://hdopro.netlify.app/dmca.html">
-        <img src="https://img.shields.io/badge/⚖️ DMCA-View-yellow" alt="DMCA">
-    </a>
+
+<a href="https://hdopro.netlify.app/">
+<img src="https://img.shields.io/badge/🌟 Official_Website-Visit-brightgreen?style=for-the-badge" alt="Website">
+</a>
+
+<a href="https://github.com/HDO-PRO">
+<img src="https://img.shields.io/badge/🏠 GitHub_Org-Visit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Org">
+</a>
+
+<a href="https://github.com/HDO-PRO/HDO-Pro">
+<img src="https://img.shields.io/badge/🎬 Main_Project-Access-0078D7?style=for-the-badge" alt="Main Project">
+</a>
+
+<a href="mailto:hdopro@protonmail.com">
+<img src="https://img.shields.io/badge/📧 Contact_Email-red?style=for-the-badge" alt="Email">
+</a>
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!-- COMMUNITY (DROPDOWN) -->
+<!-- ========================= -->
+
+<details>
+<summary><b>💬 Community & Access</b></summary>
+
+<br>
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/🌀 Discord-Join_To_Get_Access-lightgrey?style=for-the-badge" alt="Discord">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/💬 Telegram-Join_To_Get_Access-lightgrey?style=for-the-badge" alt="Telegram">
+</a>
+
+</div>
+
+</details>
+
+---
+
+<!-- ========================= -->
+<!-- DOCUMENTATION (DROPDOWN) -->
+<!-- ========================= -->
+
+<details>
+<summary><b>📚 Documentation & Resources</b></summary>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/HDO-PRO/Wiki">
+<img src="https://img.shields.io/badge/📖 Wiki-blue?style=for-the-badge" alt="Wiki">
+</a>
+
+<a href="https://github.com/HDO-PRO/Xapk-Installer">
+<img src="https://img.shields.io/badge/📦 XAPK_Guide-blueviolet?style=for-the-badge" alt="XAPK">
+</a>
+
+<a href="https://github.com/HDO-PRO/Community">
+<img src="https://img.shields.io/badge/🌐 Community-success?style=for-the-badge" alt="Community Repo">
+</a>
+
+<a href="https://github.com/HDO-PRO/Screenshots">
+<img src="https://img.shields.io/badge/📸 Screenshots-lightgrey?style=for-the-badge" alt="Screenshots">
+</a>
+
+<a href="https://github.com/HDO-PRO/Resources-Alternatives">
+<img src="https://img.shields.io/badge/📚 Resources-blue?style=for-the-badge" alt="Resources">
+</a>
+
+<a href="https://github.com/HDO-PRO/HDO-Pro-Web-Index">
+<img src="https://img.shields.io/badge/🧭 Web_Index-blueviolet?style=for-the-badge" alt="Web Index">
+</a>
+
+</div>
+
+</details>
+
+---
+
+<!-- ========================= -->
+<!-- OTHER LINKS (DROPDOWN) -->
+<!-- ========================= -->
+
+<details>
+<summary><b>⚙️ Other Links</b></summary>
+
+<br>
+
+<div align="center">
+
+<a href="https://hdopro.netlify.app/privacy.html">
+<img src="https://img.shields.io/badge/🔒 Privacy-lightblue?style=for-the-badge" alt="Privacy">
+</a>
+
+<a href="https://hdopro.netlify.app/rules.html">
+<img src="https://img.shields.io/badge/📜 Rules-orange?style=for-the-badge" alt="Rules">
+</a>
+
+<a href="https://hdopro.netlify.app/dmca.html">
+<img src="https://img.shields.io/badge/⚖️ DMCA-yellow?style=for-the-badge" alt="DMCA">
+</a>
+
+</div>
+
+</details>
 
 > 🔴 **IMPORTANT NOTICE**
 >
