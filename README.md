@@ -16,7 +16,7 @@
 <h2 align="center">:envelope_with_arrow: Our Socials! (Join To Get Access) :globe_with_meridians::fish_cake:</h2>
 
 <p align="center">
-Welcome to the official HDO PRO social hub. Connect, explore, and follow updates across our ecosystem.
+Welcome to the official HDO PRO App Page.
 </p>
 
 <!-- ========================= -->
