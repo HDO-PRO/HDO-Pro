@@ -263,10 +263,10 @@ We currently have around <strong>200–300 users</strong> active on our servers.
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/379ddad4-c686-46c9-b2e3-80b0cf864251"
-    alt="ChatGPT Image Jun 22, 2026, 03_40_33 PM_waifu2x_art_scan_noise3_scale"
-    width="250"
-    style="border-radius: 45px;"
+    src="https://github.com/user-attachments/assets/1a4d3a5a-b124-4a33-b1fd-4bc80c6e6d9b"
+    alt="HDO Box Logo"
+    width="80"
+    style="border-radius: 20px;"
   />
 </p>
 
@@ -338,9 +338,9 @@ More Resources & Info <a href="https://github.com/HDO-PRO/Resources-Alternatives
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/1a4d3a5a-b124-4a33-b1fd-4bc80c6e6d9b"
-    alt="ChatGPT Image Jun 27, 2026, 12_55_57 PM"
-    width="250"
-    style="border-radius: 45px;"
+    alt="HDO Box Logo"
+    width="80"
+    style="border-radius: 20px;"
   />
 </p>
 
