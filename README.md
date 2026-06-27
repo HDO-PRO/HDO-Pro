@@ -335,7 +335,14 @@ More Resources & Info <a href="https://github.com/HDO-PRO/Resources-Alternatives
 
 ----
 
-<img width="1024" height="1024" alt="ChatGPT Image Jun 27, 2026, 12_55_57 PM" src="https://github.com/user-attachments/assets/1a4d3a5a-b124-4a33-b1fd-4bc80c6e6d9b" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/1a4d3a5a-b124-4a33-b1fd-4bc80c6e6d9b"
+    alt="ChatGPT Image Jun 27, 2026, 12_55_57 PM"
+    width="250"
+    style="border-radius: 45px;"
+  />
+</p>
 
 ## **📜 DMCA Disclaimer**
 
