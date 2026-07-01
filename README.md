@@ -64,8 +64,8 @@ Welcome to the official HDO PRO App Page.
 <img src="https://img.shields.io/badge/💬 Telegram-Join_To_Get_Access-lightgrey?style=for-the-badge" alt="Telegram">
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/💬 Reddit-Join_To_Get_Access-lightgrey?style=for-the-badge" alt="reddit">
+<a href="https://hdopro.netlify.app/reddit" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/💬 Reddit-Join_To_Get_Access-lightgrey?style=for-the-badge" alt="reddit">
 </a>
 
 </div>
