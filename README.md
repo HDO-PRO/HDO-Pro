@@ -9,39 +9,34 @@
   />
 </p>
 
-<div align="center">
-    <strong>⚠️ Notice: HDO PRO may only work with some versions of android. ⚠️</strong>
-</div>
+<p align="center">
+  <strong>⚠️ Notice: HDO PRO may only work with some versions of android. ⚠️</strong>
+</p>
 
 <h2 align="center">:envelope_with_arrow: Our Socials! (Join To Get Access) :globe_with_meridians::fish_cake:</h2>
 
 <p align="center">
-Welcome to the official HDO PRO App Page.
+  Welcome to the official HDO PRO App Page.
 </p>
 
 <!-- ========================= -->
 <!-- MAIN SOCIAL LINKS -->
 <!-- ========================= -->
 
-<div align="center">
-
-<a href="https://hdopro.netlify.app/">
-<img src="https://img.shields.io/badge/🌟 Official_Website-Visit-brightgreen?style=for-the-badge" alt="Website">
-</a>
-
-<a href="https://github.com/HDO-PRO">
-<img src="https://img.shields.io/badge/🏠 GitHub_Org-Visit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Org">
-</a>
-
-<a href="https://github.com/HDO-PRO/HDO-Pro">
-<img src="https://img.shields.io/badge/🎬 Main_Project-Access-0078D7?style=for-the-badge" alt="Main Project">
-</a>
-
-<a href="mailto:hdopro@protonmail.com">
-<img src="https://img.shields.io/badge/📧 Contact_Email_(OFFLINE)-red?style=for-the-badge" alt="Email">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://hdopro.netlify.app/">
+    <img src="https://img.shields.io/badge/🌟 Official_Website-Visit-brightgreen?style=for-the-badge" alt="Website">
+  </a>
+  <a href="https://github.com/HDO-PRO">
+    <img src="https://img.shields.io/badge/🏠 GitHub_Org-Visit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Org">
+  </a>
+  <a href="https://github.com/HDO-PRO/HDO-Pro">
+    <img src="https://img.shields.io/badge/🎬 Main_Project-Access-0078D7?style=for-the-badge" alt="Main Project">
+  </a>
+  <a href="mailto:hdopro@protonmail.com">
+    <img src="https://img.shields.io/badge/📧 Contact_Email_(OFFLINE)-red?style=for-the-badge" alt="Email">
+  </a>
+</p>
 
 ---
 
@@ -54,21 +49,17 @@ Welcome to the official HDO PRO App Page.
 
 <br>
 
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/🌀 Discord-Join_To_Get_Access-lightgrey?style=for-the-badge" alt="Discord">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/💬 Telegram-Join_To_Get_Access-lightgrey?style=for-the-badge" alt="Telegram">
-</a>
-
-<a href="https://hdopro.netlify.app/reddit" target="_blank" rel="noopener noreferrer">
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🌀 Discord-Join_To_Get_Access-lightgrey?style=for-the-badge" alt="Discord">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/💬 Telegram-Join_To_Get_Access-lightgrey?style=for-the-badge" alt="Telegram">
+  </a>
+  <a href="https://hdopro.netlify.app/reddit" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/💬 Reddit-Join_To_Get_Access-lightgrey?style=for-the-badge" alt="reddit">
-</a>
-
-</div>
+  </a>
+</p>
 
 </details>
 
@@ -83,33 +74,26 @@ Welcome to the official HDO PRO App Page.
 
 <br>
 
-<div align="center">
-
-<a href="https://github.com/HDO-PRO/Wiki">
-<img src="https://img.shields.io/badge/📖 Wiki-blue?style=for-the-badge" alt="Wiki">
-</a>
-
-<a href="https://github.com/HDO-PRO/Xapk-Installer">
-<img src="https://img.shields.io/badge/📦 XAPK_Guide-blueviolet?style=for-the-badge" alt="XAPK">
-</a>
-
-<a href="https://github.com/HDO-PRO/Community">
-<img src="https://img.shields.io/badge/🌐 Community-success?style=for-the-badge" alt="Community Repo">
-</a>
-
-<a href="https://github.com/HDO-PRO/Screenshots">
-<img src="https://img.shields.io/badge/📸 Screenshots-lightgrey?style=for-the-badge" alt="Screenshots">
-</a>
-
-<a href="https://github.com/HDO-PRO/Resources-Alternatives">
-<img src="https://img.shields.io/badge/📚 Resources-blue?style=for-the-badge" alt="Resources">
-</a>
-
-<a href="https://github.com/HDO-PRO/HDO-Pro-Web-Index">
-<img src="https://img.shields.io/badge/🧭 Web_Index-blueviolet?style=for-the-badge" alt="Web Index">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/HDO-PRO/Wiki">
+    <img src="https://img.shields.io/badge/📖 Wiki-blue?style=for-the-badge" alt="Wiki">
+  </a>
+  <a href="https://github.com/HDO-PRO/Xapk-Installer">
+    <img src="https://img.shields.io/badge/📦 XAPK_Guide-blueviolet?style=for-the-badge" alt="XAPK">
+  </a>
+  <a href="https://github.com/HDO-PRO/Community">
+    <img src="https://img.shields.io/badge/🌐 Community-success?style=for-the-badge" alt="Community Repo">
+  </a>
+  <a href="https://github.com/HDO-PRO/Screenshots">
+    <img src="https://img.shields.io/badge/📸 Screenshots-lightgrey?style=for-the-badge" alt="Screenshots">
+  </a>
+  <a href="https://github.com/HDO-PRO/Resources-Alternatives">
+    <img src="https://img.shields.io/badge/📚 Resources-blue?style=for-the-badge" alt="Resources">
+  </a>
+  <a href="https://github.com/HDO-PRO/HDO-Pro-Web-Index">
+    <img src="https://img.shields.io/badge/🧭 Web_Index-blueviolet?style=for-the-badge" alt="Web Index">
+  </a>
+</p>
 
 </details>
 
@@ -124,21 +108,17 @@ Welcome to the official HDO PRO App Page.
 
 <br>
 
-<div align="center">
-
-<a href="https://hdopro.netlify.app/privacy.html">
-<img src="https://img.shields.io/badge/🔒 Privacy-lightblue?style=for-the-badge" alt="Privacy">
-</a>
-
-<a href="https://hdopro.netlify.app/rules.html">
-<img src="https://img.shields.io/badge/📜 Rules-orange?style=for-the-badge" alt="Rules">
-</a>
-
-<a href="https://hdopro.netlify.app/dmca.html">
-<img src="https://img.shields.io/badge/⚖️ DMCA-yellow?style=for-the-badge" alt="DMCA">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://hdopro.netlify.app/privacy.html">
+    <img src="https://img.shields.io/badge/🔒 Privacy-lightblue?style=for-the-badge" alt="Privacy">
+  </a>
+  <a href="https://hdopro.netlify.app/rules.html">
+    <img src="https://img.shields.io/badge/📜 Rules-orange?style=for-the-badge" alt="Rules">
+  </a>
+  <a href="https://hdopro.netlify.app/dmca.html">
+    <img src="https://img.shields.io/badge/⚖️ DMCA-yellow?style=for-the-badge" alt="DMCA">
+  </a>
+</p>
 
 </details>
 
@@ -149,7 +129,7 @@ Welcome to the official HDO PRO App Page.
 > 🔒 No code or tools used to build this app will be shared.  
 > 📊 You can check the app/web status at the bottom of this page.
 
-----
+---
 
 ## **❓ What Is HDO PRO?**
 
@@ -162,7 +142,6 @@ Users can discover and enjoy 🎥 HD movies and TV series across a wide variety 
 > **Important:** HDO PRO is an independent community project and is **not affiliated with, endorsed by, sponsored by, or officially connected to HDO Box or its developers.** References to HDO Box are provided for informational purposes only.
 
 ➡️ Learn more about the original HDO Box project through the <a href="https://hdo.app" target="_blank">Official Website</a>, <a href="https://t.me/+tgrFoCm170s2NmQ9" target="_blank">Telegram</a>, or <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord</a>.
-
 
 ---
 
@@ -196,7 +175,6 @@ For the latest status updates, users should follow the official community channe
 >
 > HDO PRO is an independent community project and is not affiliated with, endorsed by, or operated by the original HDO Box developers. Features, availability, and update schedules may vary over time.
 
-
 ---
 
 <details>
@@ -228,7 +206,7 @@ For the latest status updates, users should follow the official community channe
 
 Thanks for using **HDO Pro**. We appreciate every user who checks it out and supports the project.
 
-We’re currently a small community of roughly a few hundred users, growing quietly over time.
+We're currently a small community of roughly a few hundred users, growing quietly over time.
 
 </div>
 
@@ -253,15 +231,15 @@ We’re currently a small community of roughly a few hundred users, growing quie
 ---
 
 <p align="center">
-<strong>🙏 Thank you to all our users!</strong><br>
-We appreciate the support from everyone using our platform.
-<br><br>
-We currently have around <strong>200–300 users</strong> active on our servers.
+  <strong>🙏 Thank you to all our users!</strong><br>
+  We appreciate the support from everyone using our platform.
+  <br><br>
+  We currently have around <strong>200–300 users</strong> active on our servers.
 </p>
 
 </details>
 
-----
+---
 
 ## 📂 Downloads
 
@@ -337,16 +315,7 @@ More Resources & Info <a href="https://github.com/HDO-PRO/Resources-Alternatives
 
 </details>
 
-----
-
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/1a4d3a5a-b124-4a33-b1fd-4bc80c6e6d9b"
-    alt="HDO Box Logo"
-    width="80"
-    style="border-radius: 20px;"
-  />
-</p>
+---
 
 ## **📜 DMCA Disclaimer**
 
@@ -360,15 +329,19 @@ We do not endorse or promote illegal activity. Users are responsible for complyi
 <details>
 <summary><strong>📊 HDO Pro Status</strong></summary>
 
-<div align="center">
+<br>
 
-🟢 **Website:** Online  
-🟢 **App:** Online  
+<p align="center">
+  🟢 <strong>Website:</strong> Online  
+  🟢 <strong>App:</strong> Online  
 
-🌐 <a href="https://hdopro.netlify.app/" target="_blank">Check live site</a>
+  <br>
 
-⚠️ This status is not real-time and may not always be up to date, as this page is kept more private.
+  🌐 <a href="https://hdopro.netlify.app/" target="_blank">Check live site</a>
 
-If there are any issues or downtime, updates will be posted in our official **Discord** and **Telegram** servers.
+  <br>
 
-</div>
+  ⚠️ This status is not real-time and may not always be up to date, as this page is kept more private.
+
+  If there are any issues or downtime, updates will be posted in our official <strong>Discord</strong> and <strong>Telegram</strong> servers.
+</p>
